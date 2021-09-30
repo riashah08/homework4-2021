@@ -84,7 +84,7 @@ td{
 }
 
 .rowhead{
- 
+  vertical-align:middle;
   border-color:#000000;
   border-spacing:0px;
   border: 2px solid #000000;
